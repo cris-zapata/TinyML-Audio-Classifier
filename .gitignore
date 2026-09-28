@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Simulation outputs
+*.vcd
+*.fst
+*_sim
+
+# Vivado generated files
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.gen/
+*.jou
+*.log
+*.str
+
+# Editor files
+.vscode/
