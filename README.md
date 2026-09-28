@@ -1,4 +1,4 @@
-# TinyML FPGA Audio Classifier Accelerator
+# FPGA Audio Classification Neural Network Accelerator
 
 This is a project I've been working on to learn more about FPGA design and hardware acceleration for neural networks. The main idea is to take a small audio classification model that I trained in Python and implement the actual inference hardware myself in SystemVerilog.
 
